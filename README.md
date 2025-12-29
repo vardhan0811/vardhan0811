@@ -3,7 +3,7 @@
 <h3 align="center">Senior UG</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%2FML+Developer;Frontend+Web+Enthusiast;Prompt+Engineer;Always+learning+new+things&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Web+Enthusiast;Prompt+Engineer;Always+learning+new+things&center=true&width=500&height=45">
 </p>
 
 - 🔭 I’m currently working as a **Prompt Engineer** at [Outlier AI](https://outlier.ai)
