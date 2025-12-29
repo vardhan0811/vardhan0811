@@ -1,6 +1,6 @@
-<h1 align="center"><img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=180&section=header&text=Vardhan%20Rayapureddy&fontSize=42&fontAlignY=38" />
+<h1 align="center"><img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=180&section=header&text=AI/ML%20Developer&fontSize=42&fontAlignY=38" />
 </h1>
-<h3 align="center">AI/ML Developer | Senior UG at LPU</h3>
+<h3 align="center">Senior UG</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%2FML+Developer;Frontend+Web+Enthusiast;Prompt+Engineer;Always+learning+new+things&center=true&width=500&height=45">
