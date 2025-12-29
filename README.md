@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=180&section=header&text=AI/ML%20DEVELOPER&fontSize=42&fontAlignY=38" />
+<h1 align="center"><img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=180&section=header&text=AI/ML%20Developer&fontSize=42&fontAlignY=38" />
 </h1>
 <h3 align="center">Senior UG</h3>
 
