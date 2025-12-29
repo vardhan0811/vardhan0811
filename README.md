@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vardhan Rayapureddy</h1>
-<h3 align="center">AI/ML and Frontend Developer | Prompt Engineer | Junior UG at LPU</h3>
+<h3 align="center">AI/ML Developer | Senior UG at LPU</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%2FML+Developer;Frontend+Web+Enthusiast;Prompt+Engineer;Always+learning+new+things&center=true&width=500&height=45">
