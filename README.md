@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Vardhan Rayapureddy</h1>
+<h1 align="center"><img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=180&section=header&text=Vardhan%20Rayapureddy&fontSize=42&fontAlignY=38" />
+</h1>
 <h3 align="center">AI/ML Developer | Senior UG at LPU</h3>
 
 <p align="center">
