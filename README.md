@@ -46,13 +46,18 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vardhan0811&show_icons=true&theme=radical&cache_seconds=1800" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=vardhan0811&theme=radical" />
+  <img width="48%"
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vardhan0811&show_icons=true&theme=radical" />
+
+  <img width="48%"
+       src="https://streak-stats.demolab.com?user=vardhan0811&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vardhan0811&layout=compact&theme=radical&cache_seconds=1800" />
+  <img
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vardhan0811&layout=compact&theme=radical" />
 </p>
+
 
 
 ---
