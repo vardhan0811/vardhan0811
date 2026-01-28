@@ -10,9 +10,9 @@
 
 - 🧠 Skilled in **Machine Learning, NLP, Computer Vision, and LLMs**
 
-- 👨‍💻 Check out my projects here: [GitHub Portfolio](https://github.com/vardhan0811)
+- 👨‍💻 Check out my projects here: [GitHub Portfolio](https://github.com/vardhan0811?tab=repositories)
 
-- 🌐 Personal Website (coming soon): **[vardhan.dev]** (optional)
+- 🌐 Personal Website (coming soon): **[vardhan.dev]** 
 
 - 📫 Reach me at **rayapureddyvardhan2004@gmail.com**
 
