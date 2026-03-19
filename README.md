@@ -8,9 +8,6 @@
 
 
 - 🧠 Skilled in **Machine Learning, NLP, Computer Vision, and LLMs**
-
-- 👨‍💻 Check out my projects here: [GitHub Portfolio](https://github.com/vardhan0811?tab=repositories)
-
 - 📫 Reach me at **rayapureddyvardhan2004@gmail.com**
 
 ---
