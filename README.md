@@ -50,6 +50,8 @@
 ---
 
 ## 📚 Latest Projects
+- 🔍 [RetailPOS — Enterprise Billing & Store Management System](https://github.com/vardhan0811/Retail-POS)  
+  A modern, distributed, real-time Retail POS + Admin Control System built using Angular + .NET Microservices.
 
 - 🔍 [YOLOv8 Real-Time Object Detection](https://github.com/vardhan0811/yolov8-object-detection)  
   ML-powered web app for recognizing 80+ objects live with webcam and file uploads.
