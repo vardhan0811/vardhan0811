@@ -53,8 +53,8 @@
 - 🔍 [RetailPOS — Enterprise Billing & Store Management System](https://github.com/vardhan0811/Retail-POS)  
   A modern, distributed, real-time Retail POS + Admin Control System built using Angular + .NET Microservices.
 
-- 🔍 [YOLOv8 Real-Time Object Detection](https://github.com/vardhan0811/yolov8-object-detection)  
-  ML-powered web app for recognizing 80+ objects live with webcam and file uploads.
+- 🔍 [LearnEase Community Platform](https://github.com/vardhan0811/learnease-community-platform)  
+  A modern, cross-platform learning application built with Flutter and Dart
 
 - 💬 [Socket Speak - Real-Time Chat App](https://github.com/vardhan0811/SocketSpeak)  
   Full-stack chat app with secure one-on-one messaging using MERN and JWT.
